@@ -1,0 +1,18 @@
+@import 'variables';
+.marketinsight{     background:$bg;
+
+    .card-effect {
+        background-color: bg;
+         border-radius: 12px; 
+         padding: 25px;
+    }
+   h3{
+       font-size: $size;
+   }
+}
+.p{
+    padding-top: 30px;
+}
+.text-light {
+    color: #abb5bf!important;
+}
